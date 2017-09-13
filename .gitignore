@@ -1,5 +1,4 @@
 *.iml
-.gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
@@ -75,17 +74,12 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
-.gitignore
 .idea/compiler.xml
 .idea/copyright/
 .idea/misc.xml
 .idea/modules.xml
 .idea/runConfigurations.xml
 .idea/sonarlint/
-app/
-build.gradle
-gradle.properties
 gradle/
 gradlew
 gradlew.bat
-settings.gradle
